@@ -1,10 +1,8 @@
 package com.twu.valueobject;
 
-/**
- * Created by pdale on 8/20/15.
- */
 public class Dollar {
     private final double amount;
+
     public Dollar(double amount) {
         this.amount = amount;
     }

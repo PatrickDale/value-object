@@ -1,8 +1,6 @@
 package com.twu.valueobject;
 
-/**
- * Created by pdale on 8/20/15.
- */
+
 public class Euro {
     private int value;
 
